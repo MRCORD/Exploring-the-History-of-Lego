@@ -5,7 +5,7 @@ The Rebrickable database includes data on every LEGO set that has ever been sold
 
 
 <a href="https://deepnote.com/@universidad-del-pacifico/Exploring-the-History-of-Lego-c347ed5e-a49c-4759-8814-85e3eef6af93">
-<img width="1722" alt="Screenshot 2023-05-02 at 1 16 41 PM" src="https://user-images.githubusercontent.com/48929841/235751535-8f1e3c49-4fa3-47e1-8354-3e43e3e482ad.png">
+<img width="1722" alt="Screenshot 2023-05-02 at 1 19 12 PM" src="https://user-images.githubusercontent.com/48929841/235751668-5cf9dd52-6cf0-4c8b-a36b-df0ff3b20fb0.png">
 </a>
 
 
